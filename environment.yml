@@ -1,0 +1,4 @@
+name: myenv
+channels:
+  - defaults
+prefix: C:\Users\Lenovo - 5\.conda\envs\myenv
